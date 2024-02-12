@@ -2,14 +2,14 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = ""
-    API_HASH = ""
+    API_ID = "7686800"
+    API_HASH = "3a55030126000c9b78fe046bbc36c1ad"
 
     CASH_API_KEY = "AEKON8UIK9U7Q30J"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://ldhirylm:wDoObT--tyvo1FBOVNwL8EpRjvGgMoFr@john.db.elephantsql.com/ldhirylm"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1002074649656)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001361069722)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://3bd6e165809be4:O2bMUfNYcawIR1Gq@cluster0.k4ty0gf.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
@@ -24,7 +24,7 @@ class Config(object):
 
     TIME_API_KEY = "C9AMYFRW2D83"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 6177970139  # User id of your telegram account (Must be integer)
+    OWNER_ID = 5115485603  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
