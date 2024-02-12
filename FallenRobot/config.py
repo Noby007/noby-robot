@@ -20,7 +20,7 @@ class Config(object):
 
     UPDATE_CHANNEL = "GKBOTZ"  # Your Telegram support CHANNEL username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "6706039742:AAEpivSIUBLTxzw1xI7S69Pdk4MTQycy__E"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "C9AMYFRW2D83"  # Get this value from https://timezonedb.com/api
 
