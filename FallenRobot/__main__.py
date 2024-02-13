@@ -88,7 +88,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="𝘼𝘽𝙊𝙐𝙏 ❓", callback_data="fallen_"),
-        InlineKeyboardButton(text="𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✉️", url=f"https://t.me/Gk_botz"),
+        InlineKeyboardButton(text="𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✉️", url=f"https://t.me/ndbotsupport"),
     ],
     [
         InlineKeyboardButton(text="𝙊𝙒𝙉𝙀𝙍 🎇", url=f"tg://user?id={OWNER_ID}"),
