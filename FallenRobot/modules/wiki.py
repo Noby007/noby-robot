@@ -22,7 +22,7 @@ def wiki(update: Update, context: CallbackContext):
         res = wikipedia.summary(search)
     except DisambiguationError as e:
         update.message.reply_text(
-            "Disambiguated pages found! Adjust your query accordingly.\n<i>{}</i>".format(
+            "Disambiguated pages found! Apadina kandu pidichiten ,Adjust your query accordingly.\n<i>{}</i>".format(
                 e
             ),
             parse_mode=ParseMode.HTML,
