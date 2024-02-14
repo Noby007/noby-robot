@@ -73,7 +73,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *𝙃𝙞 👋 {}*,
        
-*ɪ ᴀᴍ {},ᴀ ᴘᴏᴡᴇʀꜰᴜL ʙᴏᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.\n\n» ᴘʀᴇss /help ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ*
+*ɪ ᴀᴍ {},Ungal Nanban ,But In Robot from , i can do whatever you need <<3.\n\n» ᴘʀᴇss /help ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ*
 """
 
 buttons = [
@@ -710,7 +710,7 @@ def main():
                 chat_id=f"@{SUPPORT_CHAT}",
                 photo="https://graph.org/file/ba1125d9092e1f00f7d3f.gif",
                 caption=f"""
-  𝙕𝙞𝙣𝙙𝙖 𝙃𝙪 😎 ...
+  na vanthuten da 😎 ...
 
 ┏•❅────✧❅✦❅✧────❅•┓
 ㅤ★ **ᴘʏᴛʜᴏɴ :** `{y()}`
