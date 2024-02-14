@@ -103,11 +103,9 @@ Press `Ctrl+b` and then `d`
     ──「 Drimi ✘ ʀᴏʙᴏᴛ 」──
 </h2>
 
-<p align="center">
-  <img src="https://github.com/Moca96/Drimi/blob/master/FallenRobot/resources/fglitch.gif">
-</p>
+![image](https://github.com/Noby007/Nobydayanairobot/assets/87512608/a269edb2-c7ef-49ed-b021-e4da7c318361)
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/Drimi_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [NOBYY ʀᴏʙᴏᴛ](https://t.me/nobyybot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
