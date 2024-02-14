@@ -14,7 +14,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [noby ✘ ʀᴏʙᴏ
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-![fallen](https://github.com/Noby007/noby-robot/assets/87512608/66420e77-ed79-4bc3-8384-ee26c10a3af3)
+    <img scr="https://github.com/Noby007/noby-robot/assets/87512608/66420e77-ed79-4bc3-8384-ee26c10a3af3">
 
 </p>
 
