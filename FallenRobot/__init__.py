@@ -45,7 +45,7 @@ if ENV:
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     NO_LOAD = os.environ.get("NO_LOAD", "").split()
     START_IMG = os.environ.get(
-        "START_IMG", "https://telegra.ph/file/86f22349e4cfa4d140967.jpg"
+        "START_IMG", "https://graph.org/file/039df7ad1256245d3fc8a.jpg"
     )
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "GK_BOTZ")
