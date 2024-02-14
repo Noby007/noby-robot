@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 sᴍɪʟᴇ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 Noby ✘ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Gautamkumarg/Smile/blob/main/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/Gautamkumarg/Smile/blob/main/FallenRobot/resources/fallen.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴍɪʟᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/Smilehelp_Robot)**_
@@ -88,9 +88,6 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AnonymousX1025/FallenRobot) </b>
-- <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
-- <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
