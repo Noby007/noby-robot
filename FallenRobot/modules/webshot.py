@@ -61,7 +61,7 @@ async def take_ss(_, message: Message):
     else:
         return await eor(message, text="ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ.")
 
-    m = await eor(message, text="ᴄᴀᴘᴛᴜʀɪɴɢ sᴄʀᴇᴇɴsʜᴏᴛ...")
+    m = await eor(message, text="wait karo machiii...")
 
     try:
         photo = await take_screenshot(url, full)
