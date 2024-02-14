@@ -8,13 +8,14 @@
   <img src="https://github.com/Gautamkumarg/Smile/blob/main/FallenRobot/resources/fallen.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴍɪʟᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/Smilehelp_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [noby ✘ ʀᴏʙᴏᴛ](https://t.me/nobyybot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/001d95bd8cafdf05e9d8b.jpg">
+![fallen](https://github.com/Noby007/noby-robot/assets/87512608/66420e77-ed79-4bc3-8384-ee26c10a3af3)
+
 </p>
 
 <p align="center">
